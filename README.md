@@ -25,12 +25,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **cckx5143@163.com**
 
-<p align="left">
-</p>
+<p align="left"></p>
 <h2 align="left"> 💻 技术栈 | Tech Stack:</h2>
 <h3 align="left"> 🎍 编程语言 | Program Language:</h3>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=red)
+
 <h3 align="left"> 🎨 Web 开发:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <h3 align="left"> 🍡 工具 | Tool:</h3>
