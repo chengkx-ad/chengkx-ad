@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengkx-ad&label=Profile%20views&color=0e75b6&style=flat" alt="chengkx-ad" /> </p>
-
+<h2 align="left">关于我 | About Me:</h2>
 - 🌱 I’m currently learning **SpringCloud**
 
 - 📝 I regularly write articles on [https://chengkx-ad.github.io/](https://chengkx-ad.github.io/)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 </p>
-<h2 align="left">技术栈:</h2>
+<h2 align="left">技术栈 | Tech Stack:</h2>
 <h3 align="left">编程语言:</h3>
 <p align="left"> <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
