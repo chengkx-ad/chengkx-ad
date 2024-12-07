@@ -34,13 +34,14 @@ Here are some ideas to get you started:
 
 <h3 align="left"> 🎨 Web 开发:</h3>
 
+![Vue](https://img.shields.io/badge/Vue-9932CD?style=for-the-badge&logo=Vue&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-C0D9D9?style=for-the-badge&logo=Spring&logoColor=white)
 
 
 <h3 align="left"> 🍡 工具 | Tool:</h3>
 
 ![Idea](https://img.shields.io/badge/Idea-C0D9D9?style=for-the-badge&logo=Spring&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chengkx-ad&show_icons=true&locale=en&layout=compact" alt="chengkx-ad" /></p>
