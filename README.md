@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 ![java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)
 
 <h3 align="left"> 🎨 Web 开发:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Spring](https://img.shields.io/badge/Spring-C0D9D9?style=for-the-badge&logo=Spring&logoColor=white)
+
+
 <h3 align="left"> 🍡 工具 | Tool:</h3>
+![Idea](https://img.shields.io/badge/Idea-C0D9D9?style=for-the-badge&logo=Spring&logoColor=white)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chengkx-ad&show_icons=true&locale=en&layout=compact" alt="chengkx-ad" /></p>
